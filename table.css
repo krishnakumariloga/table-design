@@ -1,0 +1,20 @@
+.bg-color {
+    background-color: greenyellow;
+    height: 100vh;
+}
+
+.heading-1 {
+    font-family: open sans;
+    font-size: 30px;
+    font-weight: bold;
+    color: orangered;
+    text-align: center;
+    padding-top: 20px;
+}
+
+table, th, td {
+    border:2px solid rgb(169, 16, 215);
+    font-family: open sans;
+    text-align: center;
+    color: rgb(38, 16, 8);
+}
